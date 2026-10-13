@@ -45,5 +45,3 @@ Build strong foundations in Machine Learning and AI and develop practical projec
 ---
 
 ⭐ More AI & Machine Learning projects coming as I continue learning.
-
-H
